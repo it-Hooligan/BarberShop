@@ -1,0 +1,33 @@
+.main-header {}
+.main-navigation {
+	display: flex;
+}
+.main-header-logo {}
+.site-navigation {}
+.user-navigation {}
+.login-link {}
+.container {}
+.visually-hidden {}
+.features {}
+.features-list {}
+.features-item {}
+.news {}
+.news-list {}
+.news-item {}
+.button {}
+.gallery {}
+.gallery-content {}
+.gallery-button {}
+.gallery-button-back {}
+.gallery-button-next {}
+.contacts {}
+.appointment {}
+.main-footer {}
+.footer-contacts {}
+.footer-social {}
+.social-button {}
+.footer-copyright {}
+.modal {}
+.modal-login {}
+.modal-close {}
+.modal-map {}
